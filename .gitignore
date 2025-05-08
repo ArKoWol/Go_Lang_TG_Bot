@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build files
+*.o
+*.a
+*.out
+
+# Go test cache
+*.test
+
+# Go coverage
+*.out
+*.prof
+
+# Go workspace file
+go.work
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific
+/bin/
+/dist/ 
